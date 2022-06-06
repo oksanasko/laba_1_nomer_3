@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.AssemblyInfo.cs
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.exe
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.deps.json
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.runtimeconfig.json
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.dll
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\ref\AAAAAAAAAAAAArabskajanOOOOOOOOOch.dll
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\bin\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.pdb
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.dll
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\ref\AAAAAAAAAAAAArabskajanOOOOOOOOOch.dll
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.pdb
+C:\Users\User\source\repos\AAAAAAAAAAAAArabskajanOOOOOOOOOch\AAAAAAAAAAAAArabskajanOOOOOOOOOch\obj\Debug\net6.0\AAAAAAAAAAAAArabskajanOOOOOOOOOch.genruntimeconfig.cache
